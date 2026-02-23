@@ -57,7 +57,7 @@ This project demonstrates how reusable data structure libraries are built intern
 ## 📂 Project Structure
 
 ```id="s5j9eo"
-DSA-Generic-Library/
+Generalised Data Structure Library/
 │
 ├── main.cpp
 └── README.md
@@ -78,19 +78,6 @@ g++ main.cpp -o myexe
 ```bash id="fyv1at"
 ./myexe
 ```
-
----
-
-## 💻 Example Usage
-
-```cpp id="nl6rb4"
-SinglyLLL<int> obj;
-obj.InsertFirst(10);
-obj.InsertLast(20);
-obj.Display();
-```
-
----
 
 ## 📚 Learning Outcomes
 
