@@ -54,16 +54,6 @@ This project demonstrates how reusable data structure libraries are built intern
 
 ---
 
-## 📂 Project Structure
-
-```id="s5j9eo"
-Generalised Data Structure Library/
-│
-├── main.cpp
-└── README.md
-```
-
----
 
 ## ▶️ How to Run
 
